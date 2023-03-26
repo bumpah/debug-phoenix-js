@@ -10,7 +10,7 @@ Mix.install([
   {:jason, "~> 1.0"},
   {:phoenix, "~> 1.7.2", override: true},
   {:phoenix_ecto, "~> 4.4"},
-  {:phoenix_live_view, "~> 0.18.17"}
+  {:phoenix_live_view, "~> 0.18.18"}
 ])
 
 defmodule Example.ErrorView do
