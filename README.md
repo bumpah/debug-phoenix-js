@@ -1,5 +1,5 @@
 # debug-phoenix-js
-
+> demonstration repo for open issue [phoenix_live_view/issues/2559](https://github.com/phoenixframework/phoenix_live_view/issues/2559)
 
 https://user-images.githubusercontent.com/17970806/227800987-69b94300-212d-41ff-8294-c8f37ab1658c.mov
 
